@@ -6,15 +6,17 @@ Game developer leading **MoEater**, a three-person team. Former developer at **C
 
 ## Book
 
+<a href="https://www.yes24.com/product/goods/135854770"><img src="assets/portfolio/game-programming-book.jpg" alt="한 권으로 배우는 게임 프로그래밍 — Hanbit Media book cover" width="180"></a>
+
 **[한 권으로 배우는 게임 프로그래밍](https://www.yes24.com/product/goods/135854770)** — first-listed co-author, Hanbit Media, October 2024. Covers the math, physics, algorithms, data structures and design patterns used in game development.
 
 ## Games
 
 | Work | My role | Release |
 | --- | --- | --- |
-| [EULA ~2026 Human Creativity Report~](https://store.steampowered.com/app/4517370/EULA/) | PD & Programming | Released on Steam · 2026-07-10 |
-| [EGG RAIDERS](https://store.steampowered.com/app/3253440/EGG_RAIDERS/) | Development Lead · CTO at Misoge | Steam Early Access · 2024-10-30 |
-| [EULA Demo ~하트 콩닥 미술부~](https://store.steampowered.com/app/4664420/EULA_Demo_HeartDokidoki_Art_Club/) | A MoEater title | Free demo with a separate story · 2026-04-30 |
+| <img src="assets/portfolio/eula.jpg" alt="EULA ~2026 Human Creativity Report~" width="260"><br>[EULA ~2026 Human Creativity Report~](https://store.steampowered.com/app/4517370/EULA/) | PD & Programming | Released on Steam · 2026-07-10 |
+| <img src="assets/portfolio/egg-raiders.jpg" alt="EGG RAIDERS" width="260"><br>[EGG RAIDERS](https://store.steampowered.com/app/3253440/EGG_RAIDERS/) | Development Lead · CTO at Misoge | Steam Early Access · 2024-10-30 |
+| <img src="assets/portfolio/eula-demo.jpg" alt="EULA Demo ~하트 콩닥 미술부~" width="260"><br>[EULA Demo ~하트 콩닥 미술부~](https://store.steampowered.com/app/4664420/EULA_Demo_HeartDokidoki_Art_Club/) | A MoEater title | Free demo with a separate story · 2026-04-30 |
 
 **GynoFactory** is in development: a factory automation game. EULA Demo is a free demo with a story distinct from the full game.
 
@@ -26,7 +28,7 @@ Game developer leading **MoEater**, a three-person team. Former developer at **C
 
 I have used Claude Code since its initial release. I build project-specific development environments around Codex and Claude Code, with Jev integrated into code review.
 
-I develop games and production tools, work on existing C# projects, and help teams set up AI development environments.
+I build games, desktop and Android applications, web applications and production tools. I also develop workflow automation and help teams adopt AI development tools in their existing projects.
 
 ## Technology
 
@@ -106,4 +108,4 @@ I have produced records and performed as a DJ and VJ in Korea and Japan.
 
 **Languages:** Korean (native), Japanese and English for professional communication.
 
-For game development, C# tools or AI development work: [project enquiries](https://rekorn.com/en/#contact).
+For new games, apps, web applications, automation or AI development environments: [project enquiries](https://rekorn.com/en/#contact).
