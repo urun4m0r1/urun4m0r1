@@ -36,6 +36,7 @@ I build games, desktop and Android applications, web applications and production
 | --- | --- |
 | Game engines & platforms | Unity, Godot, Stride, Android |
 | Languages & frameworks | C#, .NET, Java, Python, TypeScript, React, XML |
+| Web frontend | React, JavaScript, CSS, Vite, React Router, Lucide React |
 | Client & systems | WebRTC, WebView2, Friflo.Engine.ECS |
 | Computer vision & XR | TensorFlow, OpenCV, HoloLens, VR |
 | AI development | Codex, Claude Code, Jev (TypeSafe) |
@@ -47,6 +48,7 @@ I build games, desktop and Android applications, web applications and production
 
 | Period | Company | Role |
 | --- | --- | --- |
+| 2026-09–present | [BOOTH NOW](https://booth-now.com/) | Frontend & UI/UX · Team Member |
 | 2026-05–present | MoEater | Studio Head |
 | 2024-09–2025-06 | Misoge | Chief Technology Officer |
 | 2023-08–2024-07 | CSS | Game Programmer |
@@ -59,7 +61,12 @@ I build games, desktop and Android applications, web applications and production
 - **University of Tsukuba**, Bachelor's degree, Engineering Systems (2016-04–2020-03). Selected for the Korea–Japan Joint Scholarship Program for Science and Engineering Undergraduates; Japanese language training in 2015–2016.
 - **Korea Digital Media High School**, Hacking Defense (2012-03–2015-02).
 
-## Apps and developer tools
+## Apps, web services and developer tools
+
+- **[BOOTH NOW](https://booth-now.com/)** — I joined BOOTH NOW in September 2026 as the team member responsible for frontend development and UI/UX. The VRChat avatar asset discovery service covers over 25,000 products and 3,800 brands in Korean, Japanese and English. My work includes React frontend development and a responsive UI redesign for desktop and mobile. Catalog figures are as of September 2026.
+
+<a href="https://booth-now.com/"><img src="assets/portfolio/booth-now-desktop.png" alt="BOOTH NOW frontend and UI/UX — desktop product search" width="700"></a>
+<a href="https://booth-now.com/"><img src="assets/portfolio/booth-now-mobile.png" alt="BOOTH NOW responsive mobile product search" width="190"></a>
 
 - **[RekornTools.Avatar](https://booth.pm/ja/items/3860932)** — a Unity editor asset sold on BOOTH.
 - **[TSF Support](https://marketplace.visualstudio.com/items?itemName=rekorn.tsf-support)** — A VS Code extension that highlights sentence elements for web fiction writers, distributed on the Marketplace.
