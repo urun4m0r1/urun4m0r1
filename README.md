@@ -56,7 +56,7 @@ I build games, desktop and Android applications, web applications and production
 ## Research and education
 
 - Co-author of **[MRHMDを用いたコンクリート壁面のインタラクティブひび割れ検査システムの開発](https://gakkai-web.net/iee/program/2020/data/html/general/general5.html)**, IEEJ 2020 National Convention, paper 3-040. Research on HoloLens-based concrete crack inspection.
-- **University of Tsukuba**, Bachelor's degree, Engineering Systems (2016-04–2020-03).
+- **University of Tsukuba**, Bachelor's degree, Engineering Systems (2016-04–2020-03). Selected for the Korea–Japan Joint Scholarship Program for Science and Engineering Undergraduates; Japanese language training in 2015–2016.
 - **Korea Digital Media High School**, Hacking Defense (2012-03–2015-02).
 
 ## Apps and developer tools
