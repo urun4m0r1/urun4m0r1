@@ -49,7 +49,7 @@ I build games, desktop and Android applications, web applications and production
 | Period | Company | Role |
 | --- | --- | --- |
 | 2026-09–present | [BOOTH NOW](https://booth-now.com/) | Frontend & UI/UX · Team Member |
-| 2026-05–present | MoEater | Studio Head |
+| 2025-06–present | MoEater | Studio Head |
 | 2024-09–2025-06 | Misoge | Chief Technology Officer |
 | 2023-08–2024-07 | CSS | Game Programmer |
 | 2022-04–2023-08 | Com2Verse | Client Developer |
@@ -63,7 +63,7 @@ I build games, desktop and Android applications, web applications and production
 
 ## Apps, web services and developer tools
 
-- **[BOOTH NOW](https://booth-now.com/)** — I joined BOOTH NOW in September 2026 as the team member responsible for frontend development and UI/UX. The VRChat avatar asset discovery service covers over 25,000 products and 3,800 brands in Korean, Japanese and English. My work includes React frontend development and a responsive UI redesign for desktop and mobile. Catalog figures are as of September 2026.
+- **[BOOTH NOW](https://booth-now.com/)** — BOOTH NOW helps VRChat users find avatar clothing and hair. September 2026 figures show 6,810 visitors from 57 countries over 28 days, with over 9,000 followers on the official X account. I joined the team in September 2026 and am responsible for frontend development and UI/UX, including the React interface redesign for desktop and mobile.
 
 <a href="https://booth-now.com/"><img src="assets/portfolio/booth-now-desktop.png" alt="BOOTH NOW frontend and UI/UX — desktop product search" width="700"></a>
 <a href="https://booth-now.com/"><img src="assets/portfolio/booth-now-mobile.png" alt="BOOTH NOW responsive mobile product search" width="190"></a>
