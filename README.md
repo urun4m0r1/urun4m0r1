@@ -75,7 +75,7 @@ I build games, desktop and Android applications, web applications and production
 - **[RGTool](https://rekorn.notion.site/d80b4601deba46008005275379aa6357)** — A Java Android app for rhythm-game information and play records.
 - **[꿈드림](https://rekorn.notion.site/d80b4601deba46008005275379aa6357)** — An assistive Android app developed in a student startup club using Java and OpenCV.
 - **[Albida Soft](https://rekorn.notion.site/d80b4601deba46008005275379aa6357)** — Over 23 Android apps built in a student startup club. An archive of early work; distribution has ended.
-- **[Rekorn’s TechBlog](https://rekorn.oopy.io/)** — Technical notes on Unity, Unreal and game development.
+- **[Rekorn’s TechBlog](https://rekorn.notion.site/1aaa7fda17e54be9a52b396ad3b83ac6)** — Technical notes on Unity, Unreal and game development.
 
 <details>
 <summary>Qualifications and awards</summary>
