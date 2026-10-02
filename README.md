@@ -4,6 +4,10 @@ Game developer leading **MoEater**, a three-person team. Former developer at **C
 
 [Portfolio](https://rekorn.com/en/) · [한국어 포트폴리오](https://rekorn.com/) · [MoEater](https://moeater.com/) · [LinkedIn](https://www.linkedin.com/in/rekorn/)
 
+[![Watch my developer introduction](assets/portfolio/intro-en.jpg)](https://video.rekorn.com/en/)
+
+[Watch introduction](https://video.rekorn.com/en/) · [한국어 영상](https://video.rekorn.com/)
+
 ## Book
 
 <a href="https://www.yes24.com/product/goods/135854770"><img src="assets/portfolio/game-programming-book.jpg" alt="한 권으로 배우는 게임 프로그래밍 — Hanbit Media book cover" width="180"></a>
